@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Living For Real]]></title>
+        <description><![CDATA[Living For Real]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jul 2016 01:58:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How do I do it?]]></title>
+            <description><![CDATA[<p>I have 4 active autistic kids. Some more severe than others. 1 non-verbal, 1 with ODD, and 1 that's moderate, smart, and talkative with ADHD. My 4th one is very emotional. All of this can be very draining, but I manage to get through my day, go to the grocery store, feed them 3 meals, and put them to bed clean and happy. When people meet me or see me I am generally very upbeat and happy. When they hear I have 4 autistic kids they are shocked. For 2 reasons. First, my kids "don't appear autistic" (whatever that means). And second, as I mentioned before, I seem very upbeat and happy. So they naturally ask or state in one form or another "How do you do it?" Well, here's your answer: I don't.</p>]]></description>
+            <link>undefinedhow-do-i-do-it/index.html</link>
+            <guid isPermaLink="false">d59e100f-5c27-4416-9092-2f554876fdfb</guid>
+            <pubDate>Sat, 23 Jul 2016 01:58:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
