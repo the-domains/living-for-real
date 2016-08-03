@@ -15,15 +15,15 @@ description: >-
   forward. I learned the hard way the importance of taking the time to breathe
   and let someone take care of me. And for that my husband called me a
   hypocrite.
-datePublished: '2016-08-03T21:09:23.435Z'
-dateModified: '2016-08-03T21:08:59.388Z'
+datePublished: '2016-08-03T21:24:05.057Z'
+dateModified: '2016-08-03T21:23:50.680Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-03-my-husband-called-me-a-hypocrite.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-03-my-husband-called-me-a-hypocrite.md
 url: my-husband-called-me-a-hypocrite/index.html
 _type: Article
 
@@ -41,4 +41,6 @@ Saturday I wasn't quite bouncing back like I should have been, and if anything I
 
 After I got home I wanted to do my job as mom, but I also knew that I needed to rest. It was so hard for me not to take care of everyone and everything. 
 
-Monday morning my dear husband took the day off and took me to the insta-care near our house to get checked out. On our way there he called me a hypocrite and I knew exactly what he meant by that. Here I am taking care of everyone else, taking care of everything else to the point of putting my needs aside and I don't want anyone else to help me.
+Monday morning my dear husband took the day off and took me to the insta-care near our house to get checked out. On our way there he told me "You know you are being a hypocrite" and I knew exactly what he meant by that. Here I am taking care of everyone else, taking care of everything else to the point of putting my needs aside and I don't want anyone else to help me. I needed last week/weekend to recharge and take care of myself because I knew that I had reached my limit and instead I pushed my body to do even more. And had it not been for a great friend it could have ended in disaster. Even after getting home I wanted to jump right back into my role as mom because "that's what I needed to do" when in reality I needed to let my husband and family take care of some things too. 
+
+It is so easy to let ourselves get caught up in our "roles" that we lose sight of ourselves. As a coach I tell people all the time "you can't take care of the people that are most important to you if you don't take care of yourself first". I learned this weekend that sometimes that means letting go and doing nothing. I'm really good at working out, running, taking my shakeology, getting 7-8 hours of sleep every night, and sending my kids downstairs for "quiet time". I'm really bad at saying no and just taking the time to sit. I'm really bad at asking for help and letting someone else take care of me or even other things around the house. As a special needs mom I spend so much time taking care of others that, even though I know I need to take care of me, I forget to sit and listen to what part of me needs to be taken care of.
