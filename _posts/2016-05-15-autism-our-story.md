@@ -7,15 +7,16 @@ keywords: []
 description: >-
   We are a family of 6. My husband and I have been married since 2004. We have 4
   wonderful children; boy, girl, boy, girl. The oldest was born 2008, then 2011,
-  2012, and 2015. All 4 of them have some form of autism. 
-datePublished: '2016-07-23T02:16:34.892Z'
-dateModified: '2016-07-23T02:16:34.452Z'
+  2012, and 2015. All 4 of them have some form of autism as well as some other
+  diagnosis. We live in an alphabet soup.
+datePublished: '2016-08-09T13:07:04.193Z'
+dateModified: '2016-08-09T13:07:02.563Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-15-autism-our-story.md
+via: {}
 authors: []
 publisher: {}
-via: {}
 starred: true
 url: autism-our-story/index.html
 _context: 'http://schema.org'
