@@ -14,15 +14,15 @@ description: >-
   my kids "don't appear autistic" (whatever that means). And second, as I
   mentioned before, I seem very upbeat and happy. So they naturally ask or state
   in one form or another "How do you do it?" Well, here's your answer: I don't.
-datePublished: '2016-07-23T01:58:27.030Z'
-dateModified: '2016-07-23T01:58:06.119Z'
+datePublished: '2016-08-20T02:40:54.291Z'
+dateModified: '2016-08-20T02:40:53.693Z'
 title: ''
 author: []
 authors: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-07-23-how-do-i-do-it.md
+starred: true
 url: how-do-i-do-it/index.html
 _type: Article
 
