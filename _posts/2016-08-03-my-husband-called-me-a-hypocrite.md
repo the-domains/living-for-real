@@ -15,8 +15,8 @@ description: >-
   forward. I learned the hard way the importance of taking the time to breathe
   and let someone take care of me. And for that my husband called me a
   hypocrite.
-datePublished: '2016-08-03T21:24:05.057Z'
-dateModified: '2016-08-03T21:23:50.680Z'
+datePublished: '2016-08-26T02:11:20.459Z'
+dateModified: '2016-08-03T21:26:02.867Z'
 title: ''
 author: []
 via: {}
