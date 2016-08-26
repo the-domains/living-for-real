@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -9,8 +9,8 @@ description: >-
   wonderful children; boy, girl, boy, girl. The oldest was born 2008, then 2011,
   2012, and 2015. All 4 of them have some form of autism as well as some other
   diagnosis. We live in an alphabet soup.
-datePublished: '2016-08-09T13:07:04.193Z'
-dateModified: '2016-08-09T13:07:02.563Z'
+datePublished: '2016-08-26T02:27:37.367Z'
+dateModified: '2016-08-26T02:27:37.085Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-15-autism-our-story.md
